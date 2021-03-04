@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center"> Software Engineer based in Seattle, WA | Focusing on Security and Privacy </h3>
+<h4 align="center"> Senior CSE student at the University of Washington</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hide27k&label=Profile%20views&color=0e75b6&style=flat" alt="hide27k" /> </p>
 
 <!--
 **hide27k/hide27k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
